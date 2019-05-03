@@ -32,6 +32,8 @@ pip install -r requires.txt
 
 ## Usage
 
+### Set up
+
 Set API KEY parameter in script: 
 
 ```
@@ -57,4 +59,16 @@ Also you can change language for API request:
 
 ```
 11: LANG = 'en'
+```
+
+### Run
+
+```
+python countries_place_id.py
+```
+
+or
+
+```
+python3 ./countries_place_id.py
 ```
